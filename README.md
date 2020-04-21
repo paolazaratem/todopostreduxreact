@@ -1,3 +1,10 @@
+# todopostreduxreact
+
+Todo post with redux. API used https://jsonplaceholder.typicode.com/posts
+Created with Create React App (https://github.com/facebook/create-react-app).
+
+##
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
