@@ -6,9 +6,10 @@ const initialState = {
 };
 
 export default function (state = initialState, action) {
+  console.log("reducingggg");
   switch (action.type) {
     case FETCH_POSTS:
-      console.log("reducingggg");
+      console.log("paolaaaa" + action.payload);
       return {
         ...state,
         items: action.payload,
