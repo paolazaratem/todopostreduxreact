@@ -15,7 +15,7 @@ class App extends Component {
         <div className="App">
           <header className="App-header">
             <img src={logo} className="App-logo" alt="logo" />
-            <h1>Welcome to react</h1>
+            <h1>Post with react redux</h1>
           </header>
           <PostForm />
           <hr />
